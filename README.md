@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 
 - 👨‍💼 I work at an International Organization, where I serve as an Information Security Analyst.
-- 🏢 My role involves penetration testing, red teaming, security research, and red team R&D.
+- 🏢 My role involves Penetration Testing, Red Teaming, Purple Teaming, Security Research, and Offensive R&D.
 - 🌐 My areas of interest include Malware, Evasion Techniques, Windows Internal, and the development of red teaming operation tools.
 - 💡 I am passionate about Evasion, Stealth, and Bypass techniques.
 
