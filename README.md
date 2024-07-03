@@ -17,19 +17,33 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senzee1984&show_icons=true&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senzee1984&layout=compact)
+
+<p align="center">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=senzee1984&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senzee1984&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=senzee1984&theme=dark&hide_border=true"/>
+</p>
 
 ## 🔥 My Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=EDRPrison)](https://github.com/senzee1984/EDRPrison)
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=InflativeLoading)](https://github.com/senzee1984/InflativeLoading)
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=MutationGate)](https://github.com/senzee1984/MutationGate)
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=micr0_shell)](https://github.com/senzee1984/micr0_shell)
 
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senzee1984)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
