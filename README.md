@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 
 ## 🔥 My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=EDRPrison)](https://github.com/senzee1984/EDRPrison)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=InflativeLoading)](https://github.com/senzee1984/InflativeLoading)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=MutationGate)](https://github.com/senzee1984/MutationGate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=senzee1984&repo=micr0_shell)](https://github.com/senzee1984/micr0_shell)
